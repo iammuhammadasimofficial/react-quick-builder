@@ -1,0 +1,31 @@
+{
+  "name": "react-quick-builder",
+  "version": "1.0.1",
+  "description": "A CLI tool to help you quickly build React applications and React Components.",
+  "main": "index.js",
+  "bin": {
+    "react-quick-builder": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masim5722/react-quick-builder.git"
+  },
+  "keywords": [
+    "react",
+    "quick",
+    "builder"
+  ],
+  "author": "Muhammad Asim masim5722@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "create-react-app": "^5.0.1",
+    "prop-types": "^15.7.2",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.3.0",
+    "shelljs": "^0.8.5"
+  }
+}
