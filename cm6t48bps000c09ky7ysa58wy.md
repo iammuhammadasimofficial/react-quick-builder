@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek AI – The AI Tool Changing the Future of Development"
-seoTitle: "DeepSeek AI"
+seoTitle: "DeepSeek AI - Install on your Windows Machine"
 seoDescription: "DeepSeek VS ChatGPT - How to install DeepSeek R1 model on Windows"
 datePublished: Thu Feb 06 2025 09:08:50 GMT+0000 (Coordinated Universal Time)
 cuid: cm6t48bps000c09ky7ysa58wy
