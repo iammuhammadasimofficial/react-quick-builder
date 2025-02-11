@@ -47,7 +47,7 @@ LM Studio is an **open-source tool** that allows you to run **large language mod
 3. Once installed, open LM Studio
     
 
-*📌* ***Tip:*** *If you are using a* ***GPU****, make sure your* ***drivers are up to date*** *for better performance.*
+*📌* ***Tip:*** *If you are using a* ***GPU***, make sure your ***drivers are up to date*** *for better performance.*
 
 ---
 
@@ -97,7 +97,7 @@ LM Studio is an **open-source tool** that allows you to run **large language mod
     ```
     
 
-*📌* ***Tip:*** *Some Linux distros may require additional* ***CUDA dependencies*** *for* ***NVIDIA GPUs****.*
+*📌* ***Tip:*** *Some Linux distros may require additional* ***CUDA dependencies*** *for* ***NVIDIA GPUs***.
 
 ---
 
@@ -118,7 +118,7 @@ Once **LM Studio is installed**, you need to **download the DeepSeek R1 model** 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1739253038112/8c02b591-79f5-4d2b-99b6-95a8002ed6a4.png align="center")
 
-*📌* ***Tip:*** *DeepSeek AI* ***1.5B model*** *is lightweight compared to larger models like* ***DeepSeek R1 7B or 67B****, making it* ***ideal for local experiments****.*
+*📌* ***Tip:*** *DeepSeek AI* ***1.5B model*** *is lightweight compared to larger models like* ***DeepSeek R1 7B or 67B***, making it ***ideal for local experiments***.
 
 ---
 
@@ -137,7 +137,7 @@ Once the model is downloaded, follow these steps:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1739253079126/c43e8b32-08a3-4446-8373-2729a3ee1f56.png align="center")
 
-*📌* ***Tip:*** *If you have a* ***powerful GPU****, enable* ***CUDA (for NVIDIA) or Metal (for Mac)*** *for better performance.*
+*📌* ***Tip:*** *If you have a* ***powerful GPU***, enable ***CUDA (for NVIDIA) or Metal (for Mac)*** *for better performance.*
 
 ---
 
@@ -192,7 +192,7 @@ Running AI models locally has **several advantages** over cloud-based services l
 
 However, there’s a trade-off: **Larger AI models require massive hardware**, making full-scale LLM deployment difficult on consumer devices.
 
-*📌* ***Example:*** ***DeepSeek AI’s 67B model*** *requires a* ***480GB GPU****, which is impractical for home use.*
+*📌* ***Example:*** ***DeepSeek AI’s 67B model*** *requires a* ***480GB GPU***, which is impractical for home use.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1739253355322/9d6d2ac3-fb21-47b5-8499-ba00547507c2.jpeg align="center")
 
@@ -212,7 +212,7 @@ I’m working on setting up **DeepSeek AI locally with a frontend AI agent**—b
 
 Stay tuned for updates!
 
-📌 **Subscribe to my YouTube channel for more tutorials & insights:** [**Tech With Asim YouTub**](https://www.youtube.com/@TechWithAsim)[**e**](https://www.youtube.com/@TechWithAsim)
+📌 **Subscribe to my YouTube channel for more tutorials & insights:** [**Tech With Asim YouTube**](https://www.youtube.com/@TechWithAsim)
 
 **Would you like to see more tutorials on AI ? Let me know in the comments!**
 
